@@ -5,3 +5,5 @@
 :hammer: I make it using HTML, CSS and Javascript.
 
 :anchor: I used the Unsplash.com API to get the images (https://unsplash.com/developers).
+
+It helped me to practice APIs calls and to stay in sharp using vanilla javascript.
